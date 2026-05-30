@@ -6,7 +6,7 @@
 
 [<img align="left" alt="@Thatradgirly | YouTube" width="22px" src="https://www.youtube.com/@Thatradgirly" />][youtube]
 [<img align="left" alt="SukhmaniNayer | LinkedIn" width="22px" src="https://www.linkedin.com/in/sukhmaninayer/" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://www.instagram.com/theradgirly/" />][instagram]
+[<img align="left" alt="theradgirly | Instagram" width="22px" src="https://www.instagram.com/theradgirly/" />][instagram]
 
 [youtube]: https://www.youtube.com/@Thatradgirly
 [instagram]: https://www.instagram.com/theradgirly/
