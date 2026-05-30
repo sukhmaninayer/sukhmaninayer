@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/sukhmaninayer"> Radiographer pivoting to Health Tech </a>, <a href="https://www.linkedin.com/in/sukhmaninayer/">Healthcare Analytics Techie </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h1>Hi, I'm Sukhmani! <br/><a href="https://github.com/sukhmaninayer"> Radiographer pivoting to Health Tech </a>, <a href="https://www.instagram.com/theradgirly/">Content Creator </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 
 
