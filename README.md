@@ -1,16 +1,13 @@
-
-<h1>Hi, I'm Sukhmani! <br/><a href="https://github.com/sukhmaninayer"> Radiographer pivoting to Health Tech </a>, <a href="https://www.instagram.com/theradgirly/">Content Creator </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sukhmani! <br/><a href="https://github.com/sukhmaninayer"> Radiographer pivoting to Health Tech </a>, <a href="https://www.instagram.com/theradgirly/">Content Creator </a>, <a href="https://www.youtube.com/@Thatradgirly">YouTuber</a></h1>
 
 
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="@Thatradgirly | YouTube" width="22px" src="https://www.youtube.com/@Thatradgirly" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="SukhmaniNayer | LinkedIn" width="22px" src="https://www.linkedin.com/in/sukhmaninayer/" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://www.instagram.com/theradgirly/" />][instagram]
 
-[twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/@Thatradgirly
 [instagram]: https://www.instagram.com/theradgirly/
 [linkedin]: https://linkedin.com/in/sukhmaninayer
